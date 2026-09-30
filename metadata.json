@@ -2,6 +2,7 @@
   "name": "Among Us: AI Station Protocol",
   "description": "Survive aboard Skeld-9 with AI crewmates powered by Gemini. Complete tasks, investigate suspicious activity, report bodies, and deliberate in emergency trials.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
-
